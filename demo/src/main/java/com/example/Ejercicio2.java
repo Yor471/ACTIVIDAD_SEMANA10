@@ -1,6 +1,6 @@
 package com.example;
 
-public class Ejercico2 {
+public class Ejercicio2 {
     public static void main(String[] args) {
 
         int mango = 6;
